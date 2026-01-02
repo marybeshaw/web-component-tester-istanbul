@@ -1,3 +1,8 @@
+This fork is now archived.
+I don't believe anyone is using it. I don't think it is useful. 
+
+If someone wishes to use this (which will surprise me), reach out to me and I will un-archive it.
+
 Web-Component-Tester-Istanbul
 =============================
 
